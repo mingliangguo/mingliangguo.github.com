@@ -5,6 +5,13 @@ This blog is created based on [Minimal Mistakes](https://github.com/mmistakes/mi
 
 I am very happy with its features now.  ^-^
 
+## To Update the dependencies
+
+```bash
+gem install bundler
+bundle update
+```
+
 ## Usage
 
 To create a new post using `rake`
