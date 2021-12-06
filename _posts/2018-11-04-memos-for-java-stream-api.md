@@ -19,4 +19,13 @@ List<Integer> numbers = Stream
     .collect(Collectors.toList());
 ```
 
+## convert list of Integer to int array
 
+```java
+List<Integer> list = Arrays.asList(5, 2, 1);
+int[] arr = list.stream()
+  .mapToInt(Integer::intValue)
+  .sorted()
+  .toArray();
+// int[3] { 1, 2, 5 }
+```
