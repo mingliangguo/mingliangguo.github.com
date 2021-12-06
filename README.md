@@ -17,5 +17,6 @@ bundle update
 To create a new post using `rake`
 
 ```bash
+# Make sure no space between the title and the tag
 rake create_post\['A new blog post','blog']
 ```
