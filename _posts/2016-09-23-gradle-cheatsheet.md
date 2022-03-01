@@ -190,3 +190,7 @@ Then the property `customProp` can be passed in cli as:
 ```bash
 gradle -PcustomProp=myProp
 ```
+
+## References
+
+- [Spring - Creating a Multi Module Project](https://spring.io/guides/gs/multi-module/)
