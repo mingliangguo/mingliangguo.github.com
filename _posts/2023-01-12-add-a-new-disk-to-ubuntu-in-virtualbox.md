@@ -29,3 +29,8 @@ After some google search, I realized that I need to format the disk and mount it
 - restart and the disk should be available to use.
 
 
+## References
+
+- [Vmware Linux Guest Add a New Hard Disk Without Rebooting Guest](https://www.cyberciti.biz/tips/vmware-add-a-new-hard-disk-without-rebooting-guest.html)
+- [Creating a new virtual disk for an existing Linux virtual machine](https://kb.vmware.com/s/article/1003940)
+
